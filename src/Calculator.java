@@ -32,4 +32,8 @@ public class Calculator {
 
         return result;
     }
+
+    public int modulus(int a, int b) {
+        return a % b;
+    }
 }
